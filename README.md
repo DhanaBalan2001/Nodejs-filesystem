@@ -2,7 +2,11 @@
 
   1. Overview :
 
-   -  This project provides a simple yet powerful RESTful API built using Node.js and Express.js to manage text files in a designated directory. It utilizes the native Node.js fs (File System) module to create and list .txt files, with filenames and content based on the current timestamp. Designed for extensibility and ease of use, this project follows best practices for maintainability and error handling.
+   -  This project provides a simple yet powerful RESTful API built using Node.js and Express.js to manage text files in a designated directory.
+   
+   -  It utilizes the native Node.js fs (File System) module to create and list .txt files, with filenames and content based on the current timestamp.
+   
+   -  Designed for extensibility and ease of use, this project follows best practices for maintainability and error handling.
 
   2. Features :
 
